@@ -30,6 +30,6 @@ def circulate():
         print("After circulating the values are:",L[n:]+L[:n])
 ```
 ## Output:
-![output](/cirulatedoutput.png)
+![output](/circulatedoutput.png)
 ## Result:
 Thus the cirulation of the values of N variables is successfully executed.
